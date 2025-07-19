@@ -1,4 +1,5 @@
 🧭 Career Compass
+
 Career Compass is an AI-powered career guidance tool with two main modules:
 
 🔹 Module 1: Student Career Recommendation
